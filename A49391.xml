@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new disease, or, A rational account of the great colds and couhgs [sic] now raging amongst us shewing the true causes of the said distempers, and approved remedies for their speedy cure : together with the author's solemn invitation to all that shall escape those maladies, to come and dine with him Christmas next / by J.L. student in physick and astrology.</title>
+            <author>J. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49391</idno>
+            <idno type="STC">Wing L34</idno>
+            <idno type="STC">ESTC R30926</idno>
+            <idno type="EEBO-CITATION">11724785</idno>
+            <idno type="OCLC">ocm 11724785</idno>
+            <idno type="VID">48361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48361)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new disease, or, A rational account of the great colds and couhgs [sic] now raging amongst us shewing the true causes of the said distempers, and approved remedies for their speedy cure : together with the author's solemn invitation to all that shall escape those maladies, to come and dine with him Christmas next / by J.L. student in physick and astrology.</title>
+                  <author>J. L.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48361:1"/>
+            <pb facs="tcp:48361:1" rendition="simple:additions"/>
+            <p>The New Diſeaſe; OR A Rational Account of the Great COLDS AND COUHGS Now Raging amongſt Us: SHEWING The true Cauſes of the ſaid Diſtempers, and Ap<g ref="char:EOLhyphen"/>proved REMEDIES for Their ſpeedy Cure.</p>
+            <p>TOGETHER With the Author's Solemn Invitation to all that ſhall eſcape thoſe Maladies, to come and Dine with Him at <hi>Chriſtmas</hi> next.</p>
+            <p>By <hi>J. L.</hi> Student in <hi>Phyſick</hi> and <hi>Astrology.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>W.T.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remedy">
+            <pb facs="tcp:48361:2"/>
+            <pb n="3" facs="tcp:48361:2"/>
+            <head>The Nevv Diſeaſe; OR A Rational Account of the Great <hi>Colds</hi> and <hi>Coughs</hi> now raging amongſt Us, <hi>&amp;c.</hi>
+            </head>
+            <p>OBſerving <hi>Colds</hi> of late to be a General Affliction where<g ref="char:EOLhyphen"/>with moſt Perſons (eſpecially about this City) are troubled, and which in Many at this time are farr more Dangerous, and attended with worſe Symp<g ref="char:EOLhyphen"/>toms than ever were known heretofore; I could not but think my ſelf obliged in Pity and Chriſtian Charity towards the Mul<g ref="char:EOLhyphen"/>titudes now Labouring under Them, to give ſome Phyſical Ac<g ref="char:EOLhyphen"/>count thereof, with the beſt and moſt approved Remedies for the ſame, that People may know how to help themſelves in time, and prevent the more miſchievous Conſequences; The rather, for that I do not remember any <hi>Phyſitian</hi> that has Profeſſedly treat<g ref="char:EOLhyphen"/>ed thereof, But generally they over-paſs them, as ſcarce worth their notice, though tis well known that they are the principal Cauſe to which moſt Diſeaſes have their Original; An over-flow<g ref="char:EOLhyphen"/>ing of Rheum being as deſtructive in the little World, as an In<g ref="char:EOLhyphen"/>undation of the Sea in the Great: I confeſs a <hi>Cold</hi> to many, ſeems a very Contemptible matter, not fit to trouble a Doctor with; People generally ſlight it, but often pay for their Vanity; They find their Head ſtufft with crude vapours, and their Breaſts clogg'd with vitious unconcocted Humours, and the cry—<hi>Tis but a Cold;</hi> They find their Lungs afflicted and obſtructed in their Functions and Offices, and themſelves ſcarce able to draw their Breath, and yet—Tis but a <hi>Cold;</hi> They find a want of Appetite, and weakneſs of Digeſtion, a general Stupefaction of
+<pb n="4" facs="tcp:48361:3"/>the Animal Spirits, and faint with <hi>Coughs,</hi> and languiſh with <hi>Ca<g ref="char:EOLhyphen"/>tarrhs,</hi> and ſink under <hi>Lethargies,</hi> and loſe their Senſes in <hi>Apo<g ref="char:EOLhyphen"/>plexies,</hi> yet ſtill—<hi>Tis but a Cold:</hi> In ſhort, their Brain is at laſt drowned by a deluge of Phlegm, and the Soul is forced to leave the ruinous cottage of the Body, and the Man dyes, and is fairly buried, and ſtill—<hi>Tis but a Cold;</hi> When it may be a little Care, and a Medicine of Three-Half-Pence, might (un<g ref="char:EOLhyphen"/>der God) have preſerved him alive till the Year 1700.</p>
+            <p>And therefore I hope none will think this our friendly Under<g ref="char:EOLhyphen"/>taking, Superfluous or Impertinent, nor undervalue it becauſe its preſented in a ſingle Sheet; As opiniated Ladies (that have more Money than Diſcretion) refuſe many times wholſom Medicines meer<g ref="char:EOLhyphen"/>ly becauſe they are Cheap, and may be had in their own Gardens;</p>
+            <p>In all <hi>Medicinal</hi> Inquiries, the Great Maſters of the Art of <hi>Heal<g ref="char:EOLhyphen"/>ing,</hi> adviſe us to begin with the Cauſe, For <hi>Scire eſt per Cauſas Cog<g ref="char:EOLhyphen"/>noſcere;</hi> Now the Cauſes of theſe extream Colds that at this time ſo univerſally afflict us, are either General, or Particular, Immediate, or Remote; The Immediate or Particular Cauſes are various accord<g ref="char:EOLhyphen"/>ing to each Perſons occaſions and circumſtances; The Remote, prima<g ref="char:EOLhyphen"/>ry, or general Cauſe; we are not to look for on this <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide Heaven, for let Ignorance, or narrow Learning rail at <hi>Aſtrology</hi> as they liſt, we are ſatisfied tis only that Art, can give any tolerable Account of the Rea<g ref="char:EOLhyphen"/>ſons of Epidemical, or Endemial Diſtempers; and why they Rage at ſuch particular ſeaſons more than at other times;</p>
+            <p>If therefore we lift up our Eyes to that glorious Glaſs, we ſhall find in the laſt Month of <hi>October,</hi> a great number of very rough and threat<g ref="char:EOLhyphen"/>ning Poſitions; firſt a Conjunction of <hi>Mars</hi> and <hi>Mercury,</hi> an Oppo<g ref="char:EOLhyphen"/>ſition of <hi>Mercury</hi> and
+<hi>Saturn,</hi> a Conjunction of <hi>Mars</hi> and the <hi>Sun,</hi> an Oppoſition of
+<hi>Saturn</hi> againſt both the <hi>Sun, Mars</hi> and <hi>Venus,</hi> and a Con<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nction of <hi>Venus</hi> and <hi>Mars</hi> all within the ſpace of one Month; From the Conſideration whereof, it was very eaſy (without the leaſt ſuſpition of <hi>Witchcraft</hi> or <hi>Conjuring</hi>) to Judg and conclude that Man<g ref="char:EOLhyphen"/>kind would at or about that time, be afflicted with ſome kind of gene<g ref="char:EOLhyphen"/>ral Diſeaſe or Diſtemper; The particular kind of which is ſufficiently intimated unto us by the Signs through which the oppoſing Planets make their preſent Tranſit, as <hi>Saturn</hi> (the fountain of Cold (as the
+<pb n="5" facs="tcp:48361:3"/>
+               <hi>Sun</hi> is of Heat) and cauſer of moſt frigid Diſeaſes) in <hi>Taurus</hi> an Earth<g ref="char:EOLhyphen"/>ly cold Sign, and the <hi>Sun, Mars, Venus,</hi> and <hi>Mercury</hi> all in <hi>Scorpio,</hi> a Sign Watry and Feminine, Cold and Moiſt, and of which <hi>J. Gad<g ref="char:EOLhyphen"/>bury</hi> has affirmed in Print, that it is the moſt vitious Sign of the
+<hi>Zodi<g ref="char:EOLhyphen"/>ack Anim. Cornutum, p.</hi> 20. Now is it leſs evident that <hi>London</hi> more eſpecially, ſhould ſuffer in Its Inhabitants by theſe extraordinary <hi>Colds,</hi> ſince
+<hi>Jupiter</hi> the only Planet that can lend us any Aſſiſtance in this caſe, is poſited in Oppoſition to the Radical Aſcendant of that Ci<g ref="char:EOLhyphen"/>ty.</p>
+            <p>Theſe are the Celeſtial reaſons of this raging Diſtemper, for by theſe rugged and contradicting beams, and unwholſome infrigidating Influences, the Air was not only ſuddenly altered, and the we<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her changed from very warm to very cold (as we may remember) but likewiſe impregnated with certain unſeaſonable particles, which are no ſooner drawn in by the Lungs, but they incorpora<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e with the Serum or watriſh part of the Blood, and render it more impure, and thence is generated that vaſt quantity of Mucus (or Snivel) which we find Na<g ref="char:EOLhyphen"/>ture unloading her ſelf of continually at the noſe and other Emuncto<g ref="char:EOLhyphen"/>ries; raiſed and increaſed by reaſon that the External cold, unwarily received at ſome of the Pores, gets up to the bra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and by compre<g ref="char:EOLhyphen"/>ſſing and overcooling the ſame, adds ſtill freſh crudities, whence pro<g ref="char:EOLhyphen"/>ceed continual diſtillations of Rheum, which falling upon the Lungs, and <hi>Aſpera Arterea</hi> (or windpipe) cauſes a tickling by the Acrimo<g ref="char:EOLhyphen"/>ny and ſharpneſs of the humour, and thence comes the Eructation (or little Earthquake in the Microcoſm) which we call a Cough.</p>
+            <p>For the Prognoſticks of this Diſtemper, we conceive it to be of longer continuance than ordinary, and of a more ſtubborn and contu<g ref="char:EOLhyphen"/>matious nature, not yielding to common Remedies, beſides people ſhall be in much danger of Relapſes, and at ſometimes the Diſeaſe ſhall ſeem almoſt wholly vaniſht, of which mitigation we ſhall have an in<g ref="char:EOLhyphen"/>ſtance about the 10th. of <hi>December,</hi> and from thence continue very moderately till Chriſtmaſs, but afterwards ſhall ſpread it ſel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> abroad a freſh. I is a common ſaying, <hi>Prevention is the beſt Phyſick;</hi> I know no better way for them to avoid this troubleſome companion, that makes a kitchin-ſtuff pot of your head, and a Limbeck of your noſe, than for to keep your ſelf wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, but be ſure arm your ſelf againſt him
+<pb n="6" facs="tcp:48361:4"/>
+               <hi>Cap a Pe,</hi> I mean whatever you do ſecure your head and your feet, for they are common ſally-por<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s where the Enemy enters, keep them therefore warm and dry, a cap will be a good bedfellow, and tis better to pay the Shomakers bill than the Apothecaries.</p>
+            <p>But if the intruder have already by a forcible Entry got Poſſeſſion of the Tenement of your body, the beſt way in the world to Eject him is by a ſound Sweat, to this purpoſe take a Drachm of <hi>Diaſcordium,</hi> or two drams of <hi>Mithridate,</hi> or a ſmall quantity, about four Drams of <hi>Matthiolus</hi> his grand Antidote, or if you pleaſe take <hi>Aurum Diapho<g ref="char:EOLhyphen"/>reticum,</hi> or <hi>Diaphoretick Antimony,</hi> or what other Sudori<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iques (or ſweat-provoking Medicines you pleaſe) and in ſweating whether for this or any other Diſtemper order your body thus, if you would re<g ref="char:EOLhyphen"/>ceive more benefit than harm by it.</p>
+            <p>Take the Medicine in your bed, and be covered warm, drink often as you lye Poſſet drink, as hot as you can endure it, ſweat an hour or two, if your ſtrength will bear it, then the chamber being kept very warm, ſhift your ſelf all but your head, about which (your cap which you ſweat in being kept on) wrap a hot napkin, which will be a means to repel the vapours back.</p>
+            <p>This ſweating will turn the humours in your bodies into vapours, and ſetting open the Pores will ridd you of them without any more to do, or you may make uſe of the following Syrrup, by which ſe<g ref="char:EOLhyphen"/>veral ſcores about this City have been perfectly cured, a thing no leſs excellent in its vertues than cheap and eaſy to be obtained.</p>
+            <p>
+               <hi>Take a whole head of Garlick the largeſt you can get, peel the ſeveral Cloves, and bind them all up together again, then put it with a quart of running water into ſome earthen veſſel, and ſtop it up very cloſe with paſte, and let it ſtand in a hot Oven twelve hours, then being took out do not open it till tis quite cold, for if you ſhould, the ſpirits and vertue would evaporate, then ſtrain out the Garlick and preſs out as much as you can of the juice, and boil up that liquor that remains with brown ſu<g ref="char:EOLunhyphen"/>gar candy to the thickneſs of a Sy<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rup, and eat thereof as you have oc<g ref="char:EOLhyphen"/>caſion, but be ſure you keep your ſelf warm after it for it as a great opner of the Pores.</hi>
+            </p>
+            <p>To eat a raw <hi>Pippin,</hi> is a uſual Remedy for a <hi>Cold,</hi> and I know a Gentleman that commonly Cures himſelf by drinking of a pint of cold
+<pb n="7" facs="tcp:48361:4"/>Water when he goes to Bed; Theſe may ſeem ſtrange Medicines, but not to thoſe that truly underſtand the myſtery of Sympathy and Anti<g ref="char:EOLhyphen"/>pathy, and that Diſeaſes are cured by their Likes, as well as by their Contraries: It often happens that <hi>Colds</hi> leave ill-favor'd effects behind them in the Body, and ſettles with pain and trouble in ſome particular Member, in ſuch a caſe you have no more to do, but ſend to the <hi>Apo<g ref="char:EOLhyphen"/>thecaries</hi> for a little <hi>
+                  <g ref="char:V">Ʋ</g>nguenium Nervinum,</hi> and it will help you, have<g ref="char:EOLhyphen"/>ing reſtored ſeveral even in dead Palſies; for <hi>Wind,</hi> anoynt your Belly with it; for want of <hi>Digeſtion;</hi> your Stomach; for the <hi>Cholick,</hi> your Belly; For whatever Diſeaſe in any part of the Body comes of Cold, eſteem this Oyntment as a Jewel, and bleſs <hi>GOD</hi> who hath given Man the knowledg of it.</p>
+            <div type="recipe">
+               <head>For a Cough.</head>
+               <p>Firſt cut the flegm with Syrup of Vinegar, then purge and cleanſe the Breaſt and Lungs, which may be done by giveing wine of Antimo<g ref="char:EOLhyphen"/>ny, and taking ſeveral times after it Diacaſſia, then comfort the Lungs with Syrupus Succorum, and give Troches Bechice to hold conſtantly in your mouth, which you may buy at the Apothecaries and carry a<g ref="char:EOLhyphen"/>bout you in a paper, and at night take Tincture of Sugar or extract of Elecampane, or Elixar Proprietatis is very uſeful, the beſt of which to be had in <hi>London</hi> is prepared and ſold by my worthy friend Doctor
+<hi>Coelſon</hi> at the <hi>Royal Oak</hi> on <hi>Tower Hill,</hi> and is very neceſſary for all families to keep by them, being an excellent Medicine in all kind of colds, as likewiſe in the Griping of the Guts and moſt common diſeaſes.</p>
+               <p>I might have entertaind the Reader with diſputing whether theſe colds now ſo rife amongſt us are not contagious or catching, moſt Phyſitians hold they are, which ſeems confirm'd by experience, in that when they come into a houſe they uſually go quite round the Family, by I have not time to enlarge, only becauſe I would be civil at part<g ref="char:EOLhyphen"/>ing, I care not if I invite all perſons gentle and ſimple, that ſhall not have a cold ſince <hi>Michaelmas</hi> to dine with me the day after Chriſtmaſs day next where they ſhall be very welcome, and have an Hermetical Ban<g ref="char:EOLhyphen"/>quet, dreſt by a ſpagyrical Cook, that like (the Ambroſia of the Hea<g ref="char:EOLhyphen"/>then divinities) ſhall render all that taſt of it immortal.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
